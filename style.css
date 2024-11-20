@@ -1,0 +1,14 @@
+bory {
+    text-align: center;
+    font-family: arial, sans-serif;
+    background-color: #f8f1e4;
+}
+h1 {
+    color:#ff6f61;
+}
+canvas {
+    border: 2px solid #ff6f61;
+    margin: 20px auto;
+    display: block;
+    background:#fff7e4;
+}
